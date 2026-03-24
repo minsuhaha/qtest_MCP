@@ -21,4 +21,4 @@ jobs:
               "pull_request_title": "${{ github.event.pull_request.title }}",
               "pull_request_author": "${{ github.event.pull_request.user.login }}"
             }' \
-            "https://f08a-175-120-219-199.ngrok-free.app/webhook-test/9216825a-aa12-49fd-b767-895e85eb5c46/webhook"
+            "https://0467-175-120-219-199.ngrok-free.app/webhook-test/9216825a-aa12-49fd-b767-895e85eb5c46/webhook"
